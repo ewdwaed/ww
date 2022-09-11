@@ -5,7 +5,6 @@ trojan://06541220-30bd-11ed-9107-1239d0255272@nl-trojan.bonds.id:443?sni=#NL Tro
 trojan://a19664a0-3178-11ed-9808-1239d0255272@nl-trojan.bonds.id:443?sni=#NL Trojan VPN
 trojan-go://06541220-30bd-11ed-9107-1239d0255272@:443/?sni=nl-trojan.bonds.id&type=ws&host=nl-trojan.bonds.id&path=%2Fhowdy
 trojan-go://a19664a0-3178-11ed-9808-1239d0255272@:443/?sni=nl-trojan.bonds.id&type=ws&host=nl-trojan.bonds.id&path=%2Fhowdy
-trojan://30c5ef30-3179-11ed-b1e2-1239d0255272@fr-trojan.bonds.id:443?sni=#FR Trojan VPN
 trojan://849609a0-3179-11ed-aa84-1239d0255272@ca-trojan.bonds.id:443?sni=#CA Trojan VPN
 trojan://ab893b40-3179-11ed-973a-1239d0255272@us-trojan.bonds.id:443?sni=#US Trojan VPN
 trojan://c8664cf0-3179-11ed-a745-1239d0255272@us-trojan.bonds.id:443?sni=#US Trojan VPN
