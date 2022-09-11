@@ -2,7 +2,20 @@ trojan://opentunnel.net-ewedfr@ust-1.opensvr.net:443?sni=rerferfedtfr#opentunnel
 trojan://opentunnel.net-edswe@ust-1.opensvr.net:443?sni=erfvwsed#opentunnel.net-edswe
 trojan://opentunnel.net-ewedw@nlt-1.opensvr.net:443?sni=www.bing.com#opentunnel.net-ewedw
 trojan://06541220-30bd-11ed-9107-1239d0255272@nl-trojan.bonds.id:443?sni=#NL Trojan VPN
+trojan://a19664a0-3178-11ed-9808-1239d0255272@nl-trojan.bonds.id:443?sni=#NL Trojan VPN
 trojan-go://06541220-30bd-11ed-9107-1239d0255272@:443/?sni=nl-trojan.bonds.id&type=ws&host=nl-trojan.bonds.id&path=%2Fhowdy
+trojan-go://a19664a0-3178-11ed-9808-1239d0255272@:443/?sni=nl-trojan.bonds.id&type=ws&host=nl-trojan.bonds.id&path=%2Fhowdy
+trojan://30c5ef30-3179-11ed-b1e2-1239d0255272@fr-trojan.bonds.id:443?sni=#FR Trojan VPN
+trojan://849609a0-3179-11ed-aa84-1239d0255272@ca-trojan.bonds.id:443?sni=#CA Trojan VPN
+trojan://ab893b40-3179-11ed-973a-1239d0255272@us-trojan.bonds.id:443?sni=#US Trojan VPN
+trojan://c8664cf0-3179-11ed-a745-1239d0255272@us-trojan.bonds.id:443?sni=#US Trojan VPN
+trojan://de4f35f0-3179-11ed-aa5c-1239d0255272@nl-trojan.bonds.id:443?sni=#NL Trojan VPN
+trojan://opentunnel.net-wedcwe@nlt-1.opensvr.net:443?sni=www.bing.com#opentunnel.net-wedcwe
+trojan://opentunnel.net-yhguj5dete@ust-1.opensvr.net:443?sni=www.youtube.com#opentunnel.net-yhguj5dete
+trojan://opentunnel.net-h@nlt-1.opensvr.net:443?sni=www.bing.com#opentunnel.net-h
+
+
+
 
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInZtZXNzMSIsDQogICJhZGQiOiAiMTcyLjY3LjI1NS40NCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJmZjkyZjEyMC01NzlmLTQwMWItYjU4MS00YzdmZWVhMDNmMTMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIndmMy5wYWdlcy5kZXYiLA0KICAicGF0aCI6ICIvZmY5MmYxMjAtNTc5Zi00MDFiLWI1ODEtNGM3ZmVlYTAzZjEzLXZtIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIndmMy5wYWdlcy5kZXYgIiwNCiAgImFscG4iOiAiIg0KfQ==
