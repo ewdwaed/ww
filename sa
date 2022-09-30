@@ -1,17 +1,20 @@
-trojan://opentunnel.net-ewedfr@ust-1.opensvr.net:443?sni=rerferfedtfr#opentunnel.net-ewedfr
-trojan://opentunnel.net-edswe@ust-1.opensvr.net:443?sni=erfvwsed#opentunnel.net-edswe
-trojan://opentunnel.net-ewedw@nlt-1.opensvr.net:443?sni=www.bing.com#opentunnel.net-ewedw
-trojan://06541220-30bd-11ed-9107-1239d0255272@nl-trojan.bonds.id:443?sni=#NL Trojan VPN
-trojan://a19664a0-3178-11ed-9808-1239d0255272@nl-trojan.bonds.id:443?sni=#NL Trojan VPN
-trojan-go://06541220-30bd-11ed-9107-1239d0255272@:443/?sni=nl-trojan.bonds.id&type=ws&host=nl-trojan.bonds.id&path=%2Fhowdy
-trojan-go://a19664a0-3178-11ed-9808-1239d0255272@:443/?sni=nl-trojan.bonds.id&type=ws&host=nl-trojan.bonds.id&path=%2Fhowdy
-trojan://849609a0-3179-11ed-aa84-1239d0255272@ca-trojan.bonds.id:443?sni=#CA Trojan VPN
-trojan://ab893b40-3179-11ed-973a-1239d0255272@us-trojan.bonds.id:443?sni=#US Trojan VPN
-trojan://c8664cf0-3179-11ed-a745-1239d0255272@us-trojan.bonds.id:443?sni=#US Trojan VPN
-trojan://de4f35f0-3179-11ed-aa5c-1239d0255272@nl-trojan.bonds.id:443?sni=#NL Trojan VPN
-trojan://opentunnel.net-wedcwe@nlt-1.opensvr.net:443?sni=www.bing.com#opentunnel.net-wedcwe
-trojan://opentunnel.net-yhguj5dete@ust-1.opensvr.net:443?sni=www.youtube.com#opentunnel.net-yhguj5dete
-trojan://opentunnel.net-h@nlt-1.opensvr.net:443?sni=www.bing.com#opentunnel.net-h
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInZtMSIsDQogICJhZGQiOiAiMTcyLjY3LjI1NS40NCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJkZTNjMmViYi05YWY2LTQ2M2QtYTY0Ny1iY2ZiNzkyYTU2MTUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInczMi5wYWdlcy5kZXYiLA0KICAicGF0aCI6ICIvZGUzYzJlYmItOWFmNi00NjNkLWE2NDctYmNmYjc5MmE1NjE1LXZtZXNzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInczMi5wYWdlcy5kZXYiLA0KICAiYWxwbiI6ICIiDQp9
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInZtMiIsDQogICJhZGQiOiAiMTcyLjY3LjE4OC4yMjUiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiOTU1ZDYzNDUtMWZjZS00ZDRmLWJlMzktNjYyOWIyNWUxYjY2IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJldzMyMy5wYWdlcy5kZXYiLA0KICAicGF0aCI6ICIvOTU1ZDYzNDUtMWZjZS00ZDRmLWJlMzktNjYyOWIyNWUxYjY2LXZtZXNzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImV3MzIzLnBhZ2VzLmRldiIsDQogICJhbHBuIjogIiINCn0=
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInZtMyIsDQogICJhZGQiOiAiMTYyLjE1OS4yMDAuNzQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYTAxNDhhY2MtNzg1OS00YWIwLTgyNDItMDgwNGYyNWEwOWRmIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJnMzIzLnBhZ2VzLmRldiIsDQogICJwYXRoIjogIi9hMDE0OGFjYy03ODU5LTRhYjAtODI0Mi0wODA0ZjI1YTA5ZGYtdm1lc3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiZzMyMy5wYWdlcy5kZXYiLA0KICAiYWxwbiI6ICIiDQp9
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInZtNCIsDQogICJhZGQiOiAiMTk4LjQxLjIyMC40NSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJiMWQyYmMyOC01MjUyLTQxNDktYjE4ZC1iODczYTQ0ZDg5NTAiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImNndDg2Ny5wYWdlcy5kZXYiLA0KICAicGF0aCI6ICIvYjFkMmJjMjgtNTI1Mi00MTQ5LWIxOGQtYjg3M2E0NGQ4OTUwLXZtZXNzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImNndDg2Ny5wYWdlcy5kZXYiLA0KICAiYWxwbiI6ICIiDQp9
+
+vless://de3c2ebb-9af6-463d-a647-bcfb792a5615@172.64.81.18:443?encryption=none&security=tls&sni=w32.pages.dev&type=ws&host=w32.pages.dev&path=%2Fde3c2ebb-9af6-463d-a647-bcfb792a5615-vless#vl1
+
+vless://955d6345-1fce-4d4f-be39-6629b25e1b66@173.245.49.17:443?encryption=none&security=tls&sni=ew323.pages.dev&type=ws&host=ew323.pages.dev&path=%2F955d6345-1fce-4d4f-be39-6629b25e1b66-vless#vl2
+
+vless://a0148acc-7859-4ab0-8242-0804f25a09df@162.159.36.175:443?encryption=none&security=tls&sni=g323.pages.dev&type=ws&host=g323.pages.dev&path=%2Fa0148acc-7859-4ab0-8242-0804f25a09df-vless#vl3
+
+vless://b1d2bc28-5252-4149-b18d-b873a44d8950@172.67.188.225:443?encryption=none&security=tls&sni=cgt867.pages.dev&type=ws&host=cgt867.pages.dev&path=%2Fb1d2bc28-5252-4149-b18d-b873a44d8950-vless#vl4
+
 
 vless://ff92f120-579f-401b-b581-4c7feea03f13@172.64.81.18:443?encryption=none&security=tls&sni=wf3.pages.dev&type=ws&host=wf3.pages.dev&path=%2Fff92f120-579f-401b-b581-4c7feea03f13-vl#vless1
 
@@ -29,3 +32,12 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInZtZXNzMyIsDQogICJhZGQiOiAiMTcyLjY0Ljk0
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInZtZXNzNSIsDQogICJhZGQiOiAiMTk4LjQxLjIxNS4yMzgiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiODhhMmMyZTAtZTA1OC00NzIzLWJjMDMtMTI4MDlkMGYyMjBmIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJlNjUucGFnZXMuZGV2IiwNCiAgInBhdGgiOiAiLzg4YTJjMmUwLWUwNTgtNDcyMy1iYzAzLTEyODA5ZDBmMjIwZi12bWVzcyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJlNjUucGFnZXMuZGV2IiwNCiAgImFscG4iOiAiIg0KfQ==
 
+
+
+trojan://849609a0-3179-11ed-aa84-1239d0255272@ca-trojan.bonds.id:443?sni=#CA Trojan VPN
+trojan://ab893b40-3179-11ed-973a-1239d0255272@us-trojan.bonds.id:443?sni=#US Trojan VPN
+trojan://c8664cf0-3179-11ed-a745-1239d0255272@us-trojan.bonds.id:443?sni=#US Trojan VPN
+trojan://de4f35f0-3179-11ed-aa5c-1239d0255272@nl-trojan.bonds.id:443?sni=#NL Trojan VPN
+trojan://opentunnel.net-wedcwe@nlt-1.opensvr.net:443?sni=www.bing.com#opentunnel.net-wedcwe
+trojan://opentunnel.net-yhguj5dete@ust-1.opensvr.net:443?sni=www.youtube.com#opentunnel.net-yhguj5dete
+trojan://opentunnel.net-h@nlt-1.opensvr.net:443?sni=www.bing.com#opentunnel.net-h
